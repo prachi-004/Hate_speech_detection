@@ -7,15 +7,17 @@ Hate speech detection is a critical application of natural language processing (
 2.	Importance of Hate Speech Detection:
    
    o	**Social Responsibility:** Detecting hate speech is essential for maintaining a safe and respectful online environment, promoting diversity, and preventing harm.
-  	o	**Legal Compliance:** Many countries have laws against hate speech, making it crucial for online platforms to identify and remove such content.
-  	o	**Platform Moderation:** Social media platforms, websites, and forums use hate speech detection to enforce community guidelines and policies.
+  	
+   o	**Legal Compliance:** Many countries have laws against hate speech, making it crucial for online platforms to identify and remove such content.
+  	
+   o	**Platform Moderation:** Social media platforms, websites, and forums use hate speech detection to enforce community guidelines and policies.
 
 4.	Challenges in Hate Speech Detection:
-   
-  o	**Context Sensitivity:** Identifying hate speech often requires understanding the context in which words or phrases are used, as they may not always be hateful in every context.
-  
-  o	**Evolving Language:** Hate speech evolves over time, adapting to new terms and expressions, making it challenging to keep detection models up-to-date.
-  o	**Imbalanced Data:** Hate speech data is often imbalanced, with a small proportion of actual hate speech examples compared to non-hateful content.
+   o	**Context Sensitivity:** Identifying hate speech often requires understanding the context in which words or phrases are used, as they may not always be hateful in every context.
+
+  	o	**Evolving Language:** Hate speech evolves over time, adapting to new terms and expressions, making it challenging to keep detection models up-to-date.
+
+  	o	**Imbalanced Data:** Hate speech data is often imbalanced, with a small proportion of actual hate speech examples compared to non-hateful content.
 
 4.	Data Collection and Annotation: Building effective hate speech detection models relies on collecting and annotating a diverse dataset that includes both hate speech and non-hateful content. Human annotators typically label the data.
 
